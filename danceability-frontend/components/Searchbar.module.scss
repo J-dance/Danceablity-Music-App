@@ -1,0 +1,11 @@
+@import '../styles/variables';
+
+.searchbar {
+  height: 40px;
+  width: 400px;
+
+  border: 1px solid black;
+  border-radius: $my-radius;
+
+  padding: 10px;
+}

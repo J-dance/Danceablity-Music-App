@@ -1,0 +1,1 @@
+// 35mins into Next.js Crach course video for dynamic pages/links
